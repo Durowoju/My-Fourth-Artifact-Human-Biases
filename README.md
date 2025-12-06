@@ -30,10 +30,9 @@ This artifact highlights a different skillset from my technical projects: **ethi
 
 ---
 
-## 🎯 Purpose & Importance
-
+## 🎯 Objective
+The objective of this artifact is to demonstrate my ethical awareness as an AI/Analytics leader by reflecting on how human bias affects data, decisions, teams, and AI systems, and to articulate concrete leadership values and strategies for minimizing that bias.
 As AI becomes embedded in critical systems, leaders must understand:
-
 - How bias shapes human decisions  
 - How bias enters datasets and algorithms  
 - How communication gaps amplify errors  
@@ -65,6 +64,15 @@ Human bias will always exist, but leaders have a responsibility to minimize its 
 These strategies reflect how ethical leadership in AI goes beyond technical ability—it requires empathy, clarity, and accountability.
 
 ---
+## Process
+
+- I began with a course assignment prompt asking me to craft a personal value statement on human bias in my field.
+- I reflected on my experiences in technology, data, and leadership roles to identify where bias most often appears.
+- I drafted and refined my personal value statement, focusing on awareness, fairness, and communication.
+- I then outlined practical leadership strategies for managing bias in teams, data workflows, and AI projects.
+- Finally, I connected this reflection to my long-term identity as an AI/ML leader and added it to my portfolio as Artifact 4.
+
+---
 
 ## 🧠 Skills Demonstrated
 
@@ -81,6 +89,18 @@ These strategies reflect how ethical leadership in AI goes beyond technical abil
 - Translating reflection into professional value  
 - Balancing technical and ethical domains  
 
+---
+
+## Tools and Tech Used
+
+- Microsoft Word / Google Docs – for drafting and editing the reflection
+- Learning Management System (LMS) – for accessing the original assignment prompt
+- GitHub & GitHub Pages – for publishing the artifact as part of my portfolio
+- Canva – for creating the AI Ethics & Leadership banner image
+---
+## Unique Value
+
+Unlike my more technical artifacts, this piece emphasizes the human and ethical side of AI. It highlights my growth as a reflective leader who is aware of personal and systemic biases and is intentional about building fair, inclusive, and accountable AI practices. This balance of technical skill and ethical awareness is a key differentiator in my professional profile.
 ---
 
 ## 🪞 Reflection
